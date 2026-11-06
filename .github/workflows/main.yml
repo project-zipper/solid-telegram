@@ -1,0 +1,250 @@
+
+name: Generate 20000 Worldwide Places
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: worldwide-place-generation
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate place XML files
+        run: |
+          python - <<'PY'
+          import requests
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          from urllib.parse import quote
+          import time
+          import re
+
+          OUTPUT = Path("places")
+          OUTPUT.mkdir(exist_ok=True)
+
+          TARGET = 20000
+          BATCH = 500
+
+          ENDPOINT = "https://query.wikidata.org/sparql"
+
+          # Real place categories
+          categories = [
+              ("Q11707", "Restaurant"),
+              ("Q16917", "Hospital"),
+              ("Q3914", "School"),
+              ("Q27686", "Fast Food"),
+          ]
+
+          existing = {
+              p.stem for p in OUTPUT.glob("*.xml")
+              if p.name != "index.xml"
+          }
+
+          session = requests.Session()
+          session.headers.update({
+              "User-Agent": "WorldwidePlacesXML/1.0 (GitHub Actions)",
+              "Accept": "application/sparql-results+json"
+          })
+
+          added = 0
+          offset = 0
+          failures = 0
+
+          def get_value(binding, key):
+              return binding.get(key, {}).get("value", "")
+
+          def get_coordinates(value):
+              match = re.search(
+                  r"Point\(\s*([-0-9.]+)\s+([-0-9.]+)\s*\)",
+                  value
+              )
+              if not match:
+                  return "", ""
+              return match.group(2), match.group(1)
+
+          while added < TARGET and failures < 5:
+
+              values = " ".join(
+                  f"(wd:{qid} \"{name}\")"
+                  for qid, name in categories
+              )
+
+              query = f"""
+              SELECT DISTINCT
+                ?item ?itemLabel ?coordinate ?image ?category
+              WHERE {{
+                VALUES (?class ?category) {{ {values} }}
+
+                ?item wdt:P31/wdt:P279* ?class ;
+                      wdt:P625 ?coordinate .
+
+                OPTIONAL {{ ?item wdt:P18 ?image . }}
+
+                SERVICE wikibase:label {{
+                  bd:serviceParam wikibase:language "en".
+                  ?item rdfs:label ?itemLabel.
+                }}
+              }}
+              ORDER BY STR(?item)
+              LIMIT {BATCH}
+              OFFSET {offset}
+              """
+
+              try:
+                  response = session.get(
+                      ENDPOINT,
+                      params={"query": query},
+                      timeout=120
+                  )
+                  response.raise_for_status()
+                  records = response.json()["results"]["bindings"]
+                  failures = 0
+
+              except Exception as error:
+                  failures += 1
+                  print("Query failed:", error)
+                  time.sleep(15)
+                  continue
+
+              if not records:
+                  print("No more records.")
+                  break
+
+              for record in records:
+                  if added >= TARGET:
+                      break
+
+                  item_url = get_value(record, "item")
+                  place_id = item_url.rsplit("/", 1)[-1]
+
+                  if not place_id or place_id in existing:
+                      continue
+
+                  name = get_value(record, "itemLabel")
+                  if not name:
+                      continue
+
+                  latitude, longitude = get_coordinates(
+                      get_value(record, "coordinate")
+                  )
+
+                  image_name = get_value(record, "image")
+                  photo = ""
+
+                  if image_name:
+                      photo = (
+                          "https://commons.wikimedia.org/wiki/Special:FilePath/"
+                          + quote(image_name.split("/")[-1])
+                      )
+
+                  category = get_value(record, "category")
+
+                  root = ET.Element("place")
+
+                  fields = {
+                      "id": place_id,
+                      "name": name,
+                      "category": category,
+                      "address": "",
+                      "latitude": latitude,
+                      "longitude": longitude,
+                      "description": "",
+                      "photo": photo,
+                      "photo_credit": "Wikimedia Commons, if image supplied",
+                      "photo_license": "Check individual image license",
+                      "website": "",
+                      "source": "Wikidata"
+                  }
+
+                  for key, value in fields.items():
+                      ET.SubElement(root, key).text = value
+
+                  ET.indent(root, space="  ")
+
+                  ET.ElementTree(root).write(
+                      OUTPUT / f"{place_id}.xml",
+                      encoding="utf-8",
+                      xml_declaration=True
+                  )
+
+                  existing.add(place_id)
+                  added += 1
+
+              offset += BATCH
+
+              print(
+                  f"New XML files: {added}/{TARGET}; "
+                  f"records checked: {offset}"
+              )
+
+              time.sleep(2)
+
+          # Rebuild index using all existing XML records.
+          index = ET.Element("places")
+
+          for file in sorted(OUTPUT.glob("*.xml")):
+              if file.name == "index.xml":
+                  continue
+
+              try:
+                  place = ET.parse(file).getroot()
+
+                  entry = ET.SubElement(index, "place")
+                  entry.set("id", place.findtext("id", ""))
+                  entry.set("file", file.name)
+                  entry.set("name", place.findtext("name", ""))
+                  entry.set(
+                      "category",
+                      place.findtext("category", "")
+                  )
+
+              except ET.ParseError:
+                  print("Invalid XML:", file)
+
+          ET.indent(index, space="  ")
+
+          ET.ElementTree(index).write(
+              OUTPUT / "index.xml",
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          print("================================")
+          print("NEW PLACES:", added)
+          print("TOTAL XML FILES:", len(existing))
+          print("================================")
+
+      - name: Commit database
+        run: |
+          git config user.name "Worldwide Places Bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add places/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate worldwide place XML database"
+            git push
+          else
+            echo "No new places."
+          fi
