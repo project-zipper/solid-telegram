@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1479</id>
+  <wikidata_id>Q1479</wikidata_id>
+  <name>Bordeaux</name>
+  <category>Monuments</category>
+  <description>Bordeaux ( bor-DOH; French: [bɔʁdo] ; Gascon Occitan: Bordèu [buɾˈðɛw]; Basque: Bordele) is a city on the river Garonne in the Gironde department, southwestern France. A port city, it is the capital of the Nouvelle-Aquitaine region, as well as the prefecture of the Gironde department.</description>
+  <latitude>44.84</latitude>
+  <longitude>-0.58</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bordeaux</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

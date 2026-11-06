@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1630884</id>
+  <wikidata_id>Q1630884</wikidata_id>
+  <name>French Alps</name>
+  <category>Mountains</category>
+  <description>The French Alps are the portions of the Alps mountain range that stand within France, located in the Auvergne-Rhône-Alpes and Provence-Alpes-Côte d'Azur regions. While some of the ranges of the French Alps are entirely in France, others, such as the Mont Blanc massif, are shared with Switzerland and Italy.</description>
+  <latitude>45.83361111</latitude>
+  <longitude>6.865</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/French_Alps</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

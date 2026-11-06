@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q43473</id>
+  <wikidata_id>Q43473</wikidata_id>
+  <name>Angkor Wat</name>
+  <category>Temples</category>
+  <description>Angkor Wat is a Theravada Buddhist temple complex, originally built as a Vaishnava Hindu temple, in Siem Reap, Cambodia. It is the largest religious complex in the world.</description>
+  <latitude>13.4125</latitude>
+  <longitude>103.86666667</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Angkor_Wat</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

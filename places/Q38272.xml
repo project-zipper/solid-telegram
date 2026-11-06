@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q38272</id>
+  <wikidata_id>Q38272</wikidata_id>
+  <name>British Isles</name>
+  <category>Islands</category>
+  <description>The British Isles are an archipelago in the North Atlantic Ocean off the north-western coast of continental Europe, consisting of the islands of Great Britain, Ireland, the Isle of Man, the Inner and Outer Hebrides, the Northern Isles (Orkney and Shetland), and over six thousand smaller islands. They have a total area of 315,159 km2 (121,684 sq mi) and a combined population of almost 75 million, and include two sovereign states, the Republic of Ireland (which covers roughly five-sixths of Ireland) and the United Kingdom of Great Britain and Northern Ireland.</description>
+  <latitude>55</latitude>
+  <longitude>-4</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/British_Isles</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

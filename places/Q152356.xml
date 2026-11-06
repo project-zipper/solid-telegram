@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q152356</id>
+  <wikidata_id>Q152356</wikidata_id>
+  <name>Eifel</name>
+  <category>Mountains</category>
+  <description>The Eifel (German: [ˈaɪfl̩] ; Luxembourgish: Äifel, pronounced [ˈæːɪ̯fəl]) is a middle mountain range in western Germany, eastern Belgium, southeastern Netherlands and northern Luxembourg. It occupies parts of southwestern North Rhine-Westphalia, northwestern Rhineland-Palatinate and the southern area of the German-speaking Community of Belgium.</description>
+  <latitude>50.39</latitude>
+  <longitude>6.87</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Eifelblick.jpg/960px-Eifelblick.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Eifelblick.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist>User Walter Koch on de.wikipedia</photo_artist>
+  <photo_credit>Originally from de.wikipedia; description page is (was) here</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Eifel</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

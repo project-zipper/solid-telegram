@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>wiki-3434750</id>
+  <wikidata_id />
+  <name>United States</name>
+  <category>National Parks</category>
+  <description>The United States of America (USA), also known as the United States (U.S.) or America, is a country primarily located in North America. It is a federal republic consisting of 50 states and a federal capital district, Washington, D.C. The 48 contiguous states border Canada to the north and Mexico to the south, with the semi-exclave of Alaska in the northwest and the archipelago of Hawaii in the Pacific Ocean.</description>
+  <latitude>40</latitude>
+  <longitude>-100</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url />
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

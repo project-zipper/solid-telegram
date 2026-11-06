@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q339321</id>
+  <wikidata_id>Q339321</wikidata_id>
+  <name>Battle of the Milvian Bridge</name>
+  <category>Bridges</category>
+  <description>The Battle of the Milvian Bridge took place between the Roman Emperors Constantine I and Maxentius on 28 October AD 312. It takes its name from the Milvian Bridge, an important route over the Tiber.</description>
+  <latitude>41.93555556</latitude>
+  <longitude>12.46694444</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

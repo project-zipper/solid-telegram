@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q14056</id>
+  <wikidata_id>Q14056</wikidata_id>
+  <name>Jan Mayen</name>
+  <category>Islands</category>
+  <description>Jan Mayen (Urban East Norwegian: [jɑn ˈmɑ̀ɪən]) is a Norwegian volcanic island in the Arctic Ocean with no permanent population. It is 55 km (34 mi) long (southwest-northeast) and 377 km2 (146 sq mi) in area, partly covered by glaciers (an area of 114.2 km2 (44.1 sq mi) around the Beerenberg volcano).</description>
+  <latitude>70.98333333</latitude>
+  <longitude>-8.53333333</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/1/14/JanMayen.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:JanMayen.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Image courtesy of MODIS Rapid Response Project at NASA/GSFC</photo_artist>
+  <photo_credit>http://rapidfire.sci.gsfc.nasa.gov/gallery/?2004243-0830/JanMayen.A2004243.1225.250m.jpg</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Jan_Mayen</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

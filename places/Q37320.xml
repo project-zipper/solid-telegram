@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q37320</id>
+  <wikidata_id>Q37320</wikidata_id>
+  <name>Cleveland</name>
+  <category>Bridges</category>
+  <description>Cleveland ( KLEEV-lənd) is a city in the U.S. state of Ohio, located along the southern shore of Lake Erie. It is across the lake from the Canadian province of Ontario, and is approximately 60 miles (97 kilometers) west of the Ohio–Pennsylvania state line.</description>
+  <latitude>41.4992</latitude>
+  <longitude>-81.6947</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Cleveland</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

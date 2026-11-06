@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q828</id>
+  <wikidata_id>Q828</wikidata_id>
+  <name>Americas</name>
+  <category>Mountains</category>
+  <description>The Americas, also collectively known as America, are a landmass comprising the totality of North America and South America. When viewed as a single continent, the Americas are the second largest continent by area after Asia and the third largest continent by population.</description>
+  <latitude>19</latitude>
+  <longitude>-96</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Americas</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

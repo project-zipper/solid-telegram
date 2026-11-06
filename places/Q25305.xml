@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q25305</id>
+  <wikidata_id>Q25305</wikidata_id>
+  <name>British Virgin Islands</name>
+  <category>Islands</category>
+  <description>The British Virgin Islands (BVI), officially the Virgin Islands, is a British Overseas Territory in the Caribbean, to the east of Puerto Rico and the US Virgin Islands and north-west of Anguilla. The islands are geographically part of the Virgin Islands archipelago and are located in the Leeward Islands of the Lesser Antilles and part of the West Indies.</description>
+  <latitude>18.445</latitude>
+  <longitude>-64.54</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/British_Virgin_Islands</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

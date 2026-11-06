@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q365</id>
+  <wikidata_id>Q365</wikidata_id>
+  <name>Cologne</name>
+  <category>Tourist Attractions</category>
+  <description>Cologne ( kə-LOHN; German: Köln [kœln] ; Kölsch: Kölle [ˈkœ̂lə] ) is the fourth-most populous city of Germany and the largest city of the German state of North Rhine-Westphalia with over one million inhabitants in the city proper and over 3.1 million people in the Cologne Bonn urban region. Cologne is also part of the Rhine-Ruhr metropolitan region, the second biggest metropolitan region by GDP in the European Union.</description>
+  <latitude>50.93638889</latitude>
+  <longitude>6.95277778</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Cologne</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

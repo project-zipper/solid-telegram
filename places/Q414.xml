@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q414</id>
+  <wikidata_id>Q414</wikidata_id>
+  <name>Argentina</name>
+  <category>Landmarks</category>
+  <description>Argentina, officially the Argentine Republic, is a country in the far south of South America. It covers an area of 2,780,085 km2 (1,073,397 mi2), making it the second-largest country in South America, after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world.</description>
+  <latitude>-34</latitude>
+  <longitude>-64</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Argentina</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

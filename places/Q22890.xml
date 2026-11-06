@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q22890</id>
+  <wikidata_id>Q22890</wikidata_id>
+  <name>Ireland</name>
+  <category>National Parks</category>
+  <description>Ireland is an island in the North Atlantic Ocean, in Northwestern Europe. Geopolitically, the island is divided between the Republic of Ireland (officially named Ireland – a sovereign state covering five-sixths of the island) and Northern Ireland (part of the United Kingdom – covering the remaining sixth).</description>
+  <latitude>53.44944444</latitude>
+  <longitude>-7.50305556</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Ireland</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q14452</id>
+  <wikidata_id>Q14452</wikidata_id>
+  <name>Easter Island</name>
+  <category>Islands</category>
+  <description>Easter Island (Spanish: Isla de Pascua, [ˈisla ðe ˈpaskwa]; Rapa Nui: Rapa Nui, [ˈɾapa ˈnu.i]) is an island and special territory of Chile in the southeastern Pacific Ocean, at the southeasternmost point of the Polynesian Triangle in Oceania. The island is renowned for its nearly 1,000 extant monumental statues, called moai, which were created by the early Rapa Nui people.</description>
+  <latitude>-27.12</latitude>
+  <longitude>-109.35</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Easter_Island</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

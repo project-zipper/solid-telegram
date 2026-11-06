@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q47141</id>
+  <wikidata_id>Q47141</wikidata_id>
+  <name>Atacama Desert</name>
+  <category>Landmarks</category>
+  <description>The Atacama Desert (Spanish: Desierto de Atacama [ataˈkama]) is a desert plateau located on the Pacific coast of South America, in the north of Chile. Stretching over a 1,600-kilometre-long (1,000-mile) strip of land west of the Andes Mountains, it covers an area of 105,000 km2 (41,000 mi2), which increases to 128,000 km2 (49,000 mi2) if the barren lower slopes of the Andes are included.</description>
+  <latitude>-24.5</latitude>
+  <longitude>-69.25</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/7/7f/Atacama.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Atacama.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>NASA</photo_artist>
+  <photo_credit>NASA</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Atacama_Desert</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

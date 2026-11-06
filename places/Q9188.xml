@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q9188</id>
+  <wikidata_id>Q9188</wikidata_id>
+  <name>Empire State Building</name>
+  <category>Famous Buildings</category>
+  <description>The Empire State Building is a 102-story, supertall skyscraper in the Midtown South neighborhood of Manhattan, New York City, United States. The building was designed in the Art Deco style by Shreve, Lamb &amp; Harmon and constructed between 1930 and 1931.</description>
+  <latitude>40.7483</latitude>
+  <longitude>-73.9856</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Empire_State_Building</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

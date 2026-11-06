@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q121378</id>
+  <wikidata_id>Q121378</wikidata_id>
+  <name>Corfu</name>
+  <category>Landmarks</category>
+  <description>Corfu ( kor-FOO, -⁠FEW, US also KOR-foo, -⁠few) or Kerkyra (Greek: Κέρκυρα, romanized: Kérkyra, pronounced [ˈcercira] ) is one of the Ionian Islands in western Greece, and the northernmost island on Greece's west coast except for its satellite Diapontian Islands, which are also the westernmost point of all Greece. Corfu and the Diapontian Islands mark the International Hydrographic Organization border between the Ionian Sea to the south and the Adriatic Sea to the north.</description>
+  <latitude>39.6</latitude>
+  <longitude>19.87</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pontikonisi.jpg/960px-Pontikonisi.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Pontikonisi.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>StefanosKozanis</photo_artist>
+  <photo_credit>photo taken by StefanosKozanis</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Corfu</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q734</id>
+  <wikidata_id>Q734</wikidata_id>
+  <name>Guyana</name>
+  <category>Landmarks</category>
+  <description>Guyana, officially the Co-operative Republic of Guyana, is a country in South America. It is bordered by the Atlantic Ocean to the north, Suriname to the east, Brazil to the south and southwest, and Venezuela to the west.</description>
+  <latitude>5</latitude>
+  <longitude>-59</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Guyana</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q70</id>
+  <wikidata_id>Q70</wikidata_id>
+  <name>Bern</name>
+  <category>Historic Sites</category>
+  <description>Bern (Swiss Standard German: [bɛrn] ), or Berne (French: [bɛʁn] ), is the de facto capital of Switzerland, referred to as the "federal city". With a population of about 146,000 (as of 2024), Bern is the fifth-most populous city in Switzerland, behind Zurich, Geneva, Basel and Lausanne.</description>
+  <latitude>46.94805556</latitude>
+  <longitude>7.4475</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bern</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

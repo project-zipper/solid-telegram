@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q390028</id>
+  <wikidata_id>Q390028</wikidata_id>
+  <name>Independence Hall</name>
+  <category>Historic Sites</category>
+  <description>Independence Hall is a historic civic building in Philadelphia, Pennsylvania, where both the Declaration of Independence and the Constitution of the United States were debated and adopted by the Founding Fathers of the United States. The building, which is the centerpiece of Independence National Historical Park, was designated a World Heritage Site in 1979.</description>
+  <latitude>39.94888889</latitude>
+  <longitude>-75.15</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Independence_Hall</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

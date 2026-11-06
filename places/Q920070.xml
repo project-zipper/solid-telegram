@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q920070</id>
+  <wikidata_id>Q920070</wikidata_id>
+  <name>Coast Mountains</name>
+  <category>Mountains</category>
+  <description>The Coast Mountain(s) (French: La chaîne Côtière) is a major mountain range in the Pacific Coast Ranges of western North America, extending from southwestern Yukon through the Alaska Panhandle and virtually all of the Coast of British Columbia south to the Fraser River. The mountain range's name derives from its proximity to the sea coast, and it is often referred to as the Coast Range.</description>
+  <latitude>54</latitude>
+  <longitude>-128</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/ISS046-E-3699.JPG/960px-ISS046-E-3699.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:ISS046-E-3699.JPG</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center</photo_artist>
+  <photo_credit>Astronaut photography of Earth</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Coast_Mountains</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

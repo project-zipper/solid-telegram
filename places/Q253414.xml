@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q253414</id>
+  <wikidata_id>Q253414</wikidata_id>
+  <name>FIFA</name>
+  <category>Bridges</category>
+  <description>The Fédération Internationale de Football Association (FIFA) (French for 'International Association Football Federation') is an international self-regulatory governing body of association football, beach soccer, and futsal. It was founded on 21 May 1904 to oversee international competition among the national associations of Belgium, Denmark, France, Germany, the Netherlands, Spain, Sweden, and Switzerland.</description>
+  <latitude>47.38138889</latitude>
+  <longitude>8.57444444</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/FIFA</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

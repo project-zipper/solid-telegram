@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q702</id>
+  <wikidata_id>Q702</wikidata_id>
+  <name>Federated States of Micronesia</name>
+  <category>Islands</category>
+  <description>The Federated States of Micronesia (FSM), or simply Micronesia ( ), is an island country in Micronesia, a region of Oceania. The federation encompasses the majority of the Caroline Islands (excluding Palau) and consists of four states—from west to east: Yap, Chuuk, Pohnpei, and Kosrae—that span the western Pacific just north of the equator for a longitudinal distance of almost 2,700 km (1,700 mi).</description>
+  <latitude>6.91666667</latitude>
+  <longitude>158.25</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Federated_States_of_Micronesia</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

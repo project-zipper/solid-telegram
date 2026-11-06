@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q4204</id>
+  <wikidata_id>Q4204</wikidata_id>
+  <name>Black Forest</name>
+  <category>Waterfalls</category>
+  <description>The Black Forest (German: Schwarzwald [ˈʃvaʁtsvalt] ) is a large forested mountain range in the state of Baden-Württemberg in southwest Germany, bounded by the Rhine Valley to the west and south and close to the borders with France and Switzerland. It is the source of the Danube and Neckar rivers.</description>
+  <latitude>48.25</latitude>
+  <longitude>8.05</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Black_Forest</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1236511</id>
+  <wikidata_id>Q1236511</wikidata_id>
+  <name>Corfe Castle</name>
+  <category>Castles</category>
+  <description>Corfe Castle is a fortification standing above the village of the same name on the Isle of Purbeck peninsula in the English county of Dorset. Built by William the Conqueror, the castle dates to the 11th century and commands a gap in the Purbeck Hills on the route between Wareham and Swanage.</description>
+  <latitude>50.64</latitude>
+  <longitude>-2.058</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Corfe_Castle</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

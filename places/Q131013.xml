@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q131013</id>
+  <wikidata_id>Q131013</wikidata_id>
+  <name>Acropolis of Athens</name>
+  <category>Landmarks</category>
+  <description>The Acropolis of Athens (Ancient Greek: Ἡ Ἀκρόπολις τῶν Ἀθηνῶν, romanized: Hē Akropolis tōn Athēnōn; Modern Greek: Η Ακρόπολη των Αθηνών, romanized: I Akrópoli ton Athinón) is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The word Acropolis is from Greek ἄκρον (akron) 'highest point, extremity' and πόλις (polis) 'city'.</description>
+  <latitude>37.97166667</latitude>
+  <longitude>23.72611111</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Acropolis_of_Athens</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

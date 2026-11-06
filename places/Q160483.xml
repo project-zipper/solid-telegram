@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q160483</id>
+  <wikidata_id>Q160483</wikidata_id>
+  <name>Chios</name>
+  <category>Tourist Attractions</category>
+  <description>Chios (; Greek: Χίος, romanized: Chíos [ˈçi.os] ), also known as Scio in English, is the fifth largest Greek island, situated in the northern Aegean Sea, and the tenth largest island in the Mediterranean Sea. The island is separated from the Anatolian mainland by the Chios Strait.</description>
+  <latitude>38.3775</latitude>
+  <longitude>26.065</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/ChiosPrefecture.jpg/960px-ChiosPrefecture.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:ChiosPrefecture.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Photograph: NASA</photo_artist>
+  <photo_credit>Satellite imagery taken from NASA World Wind software (by screenshot)</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Chios</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

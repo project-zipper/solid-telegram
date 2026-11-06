@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q34692</id>
+  <wikidata_id>Q34692</wikidata_id>
+  <name>Kingston, Jamaica</name>
+  <category>Tourist Attractions</category>
+  <description>Kingston is the capital and largest city of Jamaica, located on the southeastern coast of the island. It faces a natural harbour protected by the Palisadoes, a long sand spit which connects the town of Port Royal and Norman Manley International Airport to the rest of the island.</description>
+  <latitude>17.97138889</latitude>
+  <longitude>-76.79305556</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/9/99/PortofKingston.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:PortofKingston.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist>The original uploader was Blofeld of SPECTRE at English Wikipedia. (Original text: W. Harris)</photo_artist>
+  <photo_credit>Image taken by an uncle of mine . W. Harris.</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Kingston,_Jamaica</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

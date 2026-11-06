@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q664609</id>
+  <wikidata_id>Q664609</wikidata_id>
+  <name>Caribbean</name>
+  <category>Islands</category>
+  <description>The Caribbean is a geo-political region in the middle of the Americas centered around the Caribbean Sea in the North Atlantic Ocean, mostly overlapping with the West Indies. Bordered by North America to the north and also the west through Central America, and South America to the south, it comprises numerous islands, cays, islets, reefs, and banks.</description>
+  <latitude>14.52555556</latitude>
+  <longitude>-75.81833333</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Caribbean</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

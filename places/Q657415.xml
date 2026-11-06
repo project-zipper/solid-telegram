@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q657415</id>
+  <wikidata_id>Q657415</wikidata_id>
+  <name>Cleveland Museum of Art</name>
+  <category>Museums</category>
+  <description>The Cleveland Museum of Art (CMA) is an art museum in Cleveland, Ohio, United States. Located in the Wade Park District of University Circle, the museum is internationally renowned for its substantial holdings of Asian and Egyptian art and houses a diverse permanent collection of more than 61,000 works of art from around the world.</description>
+  <latitude>41.50888889</latitude>
+  <longitude>-81.61166667</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Cleveland_Museum_of_Art</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q377937</id>
+  <wikidata_id>Q377937</wikidata_id>
+  <name>Phoenix Park</name>
+  <category>National Parks</category>
+  <description />
+  <latitude>53.36</latitude>
+  <longitude>-6.33</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/PhoenixParkWMurphy.jpg/960px-PhoenixParkWMurphy.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:PhoenixParkWMurphy.jpg</photo_page>
+  <photo_license>CC BY-SA 2.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/2.0</photo_license_url>
+  <photo_artist>William Murphy</photo_artist>
+  <photo_credit>https://www.flickr.com/photos/infomatique/2506211207 https://www.flickr.com/photos/infomatique/49507426413 https://www.flickr.com/photos/infomatique/4939155969</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Phoenix_Park</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

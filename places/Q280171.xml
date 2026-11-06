@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q280171</id>
+  <wikidata_id>Q280171</wikidata_id>
+  <name>Ernest Hemingway House</name>
+  <category>Famous Buildings</category>
+  <description>The Ernest Hemingway House was the residence of American writer Ernest Hemingway in the 1930s. The house is situated on the island of Key West, Florida.</description>
+  <latitude>24.55119</latitude>
+  <longitude>-81.8006</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hemingwayhouse.jpg/960px-Hemingwayhouse.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Hemingwayhouse.jpg</photo_page>
+  <photo_license>CC BY 2.5</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by/2.5</photo_license_url>
+  <photo_artist>Andreas Lamecker</photo_artist>
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Ernest_Hemingway_House</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

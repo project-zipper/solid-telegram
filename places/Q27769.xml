@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q27769</id>
+  <wikidata_id>Q27769</wikidata_id>
+  <name>East Frisian Islands</name>
+  <category>Islands</category>
+  <description>The East Frisian Islands (German: Ostfriesische Inseln, pronounced [ˈɔstˌfʁiːzɪʃə ˈɪnzl̩n] ; West Frisian: Eastfryske eilannen; Saterland Frisian: Aastefräiske Ailounds) are a chain of islands in the North Sea, off the coast of East Frisia in Lower Saxony, Germany. The islands extend for some 90 kilometres (56 mi) from west to east between the mouths of the Ems and Jade / Weser rivers and lie about 3.5 to 10 kilometres (2.2 to 6.2 mi) offshore.</description>
+  <latitude>53.73333333</latitude>
+  <longitude>7.41666667</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/2/25/Eastfrisianmap.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Eastfrisianmap.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Kmusser</photo_artist>
+  <photo_credit>self-made, modified from Image:Waddeneilanden.PNG.</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/East_Frisian_Islands</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

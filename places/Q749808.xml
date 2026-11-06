@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q749808</id>
+  <wikidata_id>Q749808</wikidata_id>
+  <name>Imperial War Museum</name>
+  <category>Museums</category>
+  <description>The Imperial War Museum (IWM), currently branded "Imperial War Museums", is a British national museum. Its headquarters are in London, with five branches in England.</description>
+  <latitude>51.4958</latitude>
+  <longitude>-0.1086</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Imperial_War_Museum</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

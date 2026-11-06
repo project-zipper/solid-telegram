@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q81178</id>
+  <wikidata_id>Q81178</wikidata_id>
+  <name>Baffin Island</name>
+  <category>Islands</category>
+  <description>Baffin Island in the Canadian territory of Nunavut, is the largest island in Canada, the second-largest island in the Americas (behind Greenland), and the fifth-largest island in the world. As of July 31, 2026 its area is 507,204.95 square kilometres (195,832.93 square miles) with a population density of 0.026/km2 (0.067/sq mi); the population was 13,039 according to the 2021 Canadian census; and it is located at 68°N 70°W. Iqaluit, the capital of Nunavut, is located on Frobisher Bay on the southern tip of the island.</description>
+  <latitude>68</latitude>
+  <longitude>-70</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/b/b6/Baffin.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Baffin.png</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist>created by Online Map Creation: http://www.aquarius.geomar.de/omc/omc_intro.html</photo_artist>
+  <photo_credit>Copied from english wikipedia, original source: http://www.aquarius.geomar.de/omc/omc_intro.html (http://gmt.soest.hawaii.edu/)</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Baffin_Island</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

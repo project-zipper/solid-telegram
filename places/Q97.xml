@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q97</id>
+  <wikidata_id>Q97</wikidata_id>
+  <name>Atlantic Ocean</name>
+  <category>Bridges</category>
+  <description>The Atlantic Ocean is the second largest of the world's five oceans, with an area of about 85,133,000 square kilometers (32,870,000 sq mi). It covers approximately 17% of Earth's surface and about 24% of its water surface area.</description>
+  <latitude>0</latitude>
+  <longitude>-25</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Atlantic_Ocean</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

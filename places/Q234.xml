@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q234</id>
+  <wikidata_id>Q234</wikidata_id>
+  <name>Flanders</name>
+  <category>Waterfalls</category>
+  <description>Flanders ( FLAHN-dərz or FLAN-dərz; Dutch: Vlaanderen [ˈvlaːndərə(n)] ) is the Dutch-speaking northern part of Belgium. However, there are several overlapping definitions, including ones related to culture, language, politics, and history, and sometimes involving neighbouring countries.</description>
+  <latitude>51</latitude>
+  <longitude>4.5</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Flanders</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

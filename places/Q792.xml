@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q792</id>
+  <wikidata_id>Q792</wikidata_id>
+  <name>El Salvador</name>
+  <category>Famous Buildings</category>
+  <description>El Salvador, officially the Republic of El Salvador, is a sovereign nation in Central America. Situated along the Pacific coast, it is bounded by Guatemala to the northwest and Honduras to the northeast.</description>
+  <latitude>13.68333333</latitude>
+  <longitude>-89.18333333</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/El_Salvador</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

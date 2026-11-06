@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q170479</id>
+  <wikidata_id>Q170479</wikidata_id>
+  <name>Vancouver Island</name>
+  <category>Islands</category>
+  <description />
+  <latitude>49.6</latitude>
+  <longitude>-125.5</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/VancouverIsland.A2003154.1930.250m.cropped.jpg/960px-VancouverIsland.A2003154.1930.250m.cropped.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:VancouverIsland.A2003154.1930.250m.cropped.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>NASA</photo_artist>
+  <photo_credit>https://visibleearth.nasa.gov/images/103977/vancouver-island-british-columbia/1039791</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Vancouver_Island</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

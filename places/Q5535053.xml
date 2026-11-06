@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q5535053</id>
+  <wikidata_id>Q5535053</wikidata_id>
+  <name>Geographic center of the United States</name>
+  <category>Landmarks</category>
+  <description>The geographic center of the United States is a point approximately 20 miles (32 km) north of Belle Fourche, South Dakota, at 44°58′2.08″N 103°46′17.60″W. It has been regarded as such by the United States Coast and Geodetic Survey and the U.S. National Geodetic Survey (NGS) since the additions of Alaska and Hawaii to the United States in 1959.</description>
+  <latitude>44.96724444</latitude>
+  <longitude>-103.77155556</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/UScenter2020.png/960px-UScenter2020.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:UScenter2020.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>U.S. Census Bureau</photo_artist>
+  <photo_credit>https://www.census.gov/library/visualizations/2020/geo/geographic-center-2020.html</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Geographic_center_of_the_United_States</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q229</id>
+  <wikidata_id>Q229</wikidata_id>
+  <name>Cyprus</name>
+  <category>Monuments</category>
+  <description>Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea, located off the coast of the Levant mainland in West Asia. The island of Cyprus, which is the third largest and third most populous island in the Mediterranean, is divided along the United Nations Buffer Zone between the internationally recognised Republic of Cyprus and the Turkish Republic of Northern Cyprus, which is recognised only by Turkey.</description>
+  <latitude>35</latitude>
+  <longitude>33</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Cyprus</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q185602</id>
+  <wikidata_id>Q185602</wikidata_id>
+  <name>Jostedalsbreen National Park</name>
+  <category>National Parks</category>
+  <description>Jostedalsbreen National Park (Norwegian: Jostedalsbreen nasjonalpark) is a national park in Norway that encompasses the largest glacier on the European mainland, Jostedalsbreen. The park was established by royal decree on 25 October 1991, and then in 1998, it was enlarged to the northwest.</description>
+  <latitude>61.68333333</latitude>
+  <longitude>6.98333333</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/4/48/Briksdalsbreen.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Briksdalsbreen.JPG</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Jostedalsbreen_National_Park</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

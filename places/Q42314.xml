@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q42314</id>
+  <wikidata_id>Q42314</wikidata_id>
+  <name>Channel Islands</name>
+  <category>Islands</category>
+  <description>The Channel Islands are an archipelago in the English Channel, off the French coast of Normandy. They are divided into two Crown Dependencies: the Bailiwick of Jersey, which is the largest of the islands; and the Bailiwick of Guernsey, consisting of Guernsey, Alderney, Sark, Herm and some smaller islands.</description>
+  <latitude>49.43</latitude>
+  <longitude>-2.35</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Channel_Islands</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

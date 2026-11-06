@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q23666</id>
+  <wikidata_id>Q23666</wikidata_id>
+  <name>Great Britain</name>
+  <category>Islands</category>
+  <description>Great Britain is an island in the North Atlantic Ocean off the north-west coast of continental Europe, consisting of the countries England, Scotland and Wales, which comprise most of the United Kingdom. With an area of 209,331 km2 (80,823 sq mi), it is the largest of the British Isles, the largest European island, and the ninth-largest island in the world.</description>
+  <latitude>54</latitude>
+  <longitude>-2</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Great_Britain</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

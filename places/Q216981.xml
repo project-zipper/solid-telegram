@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q216981</id>
+  <wikidata_id>Q216981</wikidata_id>
+  <name>Geography of Austria</name>
+  <category>National Parks</category>
+  <description>Austria is a predominantly mountainous country in Central Europe, approximately between Germany, Italy and Hungary. It has a total area of 83,871 square kilometres (32,383 sq mi).</description>
+  <latitude>47.33333333</latitude>
+  <longitude>13.33333333</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/e/e8/Au-map.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Au-map.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>United States Central Intelligence Agency</photo_artist>
+  <photo_credit>CIA World Factbook</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Geography_of_Austria</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

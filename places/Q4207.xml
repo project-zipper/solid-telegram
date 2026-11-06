@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q4207</id>
+  <wikidata_id>Q4207</wikidata_id>
+  <name>Bavarian Forest</name>
+  <category>National Parks</category>
+  <description>The Bavarian Forest (German: Bayerischer Wald [ˈbaɪʁɪʃɐ ˈvalt] or Bayerwald [ˈbaɪɐvalt] ; Bavarian: Boarischa Woid) is a wooded, low-mountain region in Bavaria, Germany, that is about 100 kilometres long. It runs along the Czech border and is continued on the Czech side by the Bohemian Forest (Czech: Šumava).</description>
+  <latitude>49</latitude>
+  <longitude>12.66666667</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bavarian_Forest</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q162279</id>
+  <wikidata_id>Q162279</wikidata_id>
+  <name>Kuopio</name>
+  <category>Tourist Attractions</category>
+  <description>Kuopio ( koo-OH-pee-oh, Finnish: [ˈkuo̯pio] ) is a city in Finland and the regional capital of North Savo. It is located in the Finnish Lakeland.</description>
+  <latitude>62.8925</latitude>
+  <longitude>27.67833333</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kuopio.vaakuna.svg/960px-Kuopio.vaakuna.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Kuopio.vaakuna.svg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Kuopio</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q12575</id>
+  <wikidata_id>Q12575</wikidata_id>
+  <name>Ambassador Bridge</name>
+  <category>Bridges</category>
+  <description>The Ambassador Bridge is an international suspension bridge across the Detroit River that connects Detroit, Michigan, United States, with Windsor, Ontario, Canada. Opened in 1929, the privately owned toll bridge was for decades the busiest international border crossing in North America in terms of trade volume, carrying more than 25% of all merchandise trade between the United States and Canada by value.</description>
+  <latitude>42.312</latitude>
+  <longitude>-83.074</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Ambassador_Bridge</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

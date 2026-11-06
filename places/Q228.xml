@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q228</id>
+  <wikidata_id>Q228</wikidata_id>
+  <name>Andorra</name>
+  <category>Bridges</category>
+  <description>Andorra, officially the Principality of Andorra, is a landlocked country on the Iberian Peninsula, in the eastern Pyrenees in southwestern Europe, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Diocese of Urgell.</description>
+  <latitude>42.55</latitude>
+  <longitude>1.55</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Andorra</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

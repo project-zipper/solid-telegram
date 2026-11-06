@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1438425</id>
+  <wikidata_id>Q1438425</wikidata_id>
+  <name>Fort Abraham Lincoln</name>
+  <category>Historic Sites</category>
+  <description>Fort Abraham Lincoln State Park is a North Dakota state park located 7 miles (11 km) south of Mandan, North Dakota, United States. The park is home to the replica Mandan On-A-Slant Indian Village and reconstructed military buildings including the Custer House.</description>
+  <latitude>46.76693889</latitude>
+  <longitude>-100.84666667</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/c/cc/CusterHouse.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:CusterHouse.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist>MatthewUND</photo_artist>
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Fort_Abraham_Lincoln</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

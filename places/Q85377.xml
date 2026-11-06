@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q85377</id>
+  <wikidata_id>Q85377</wikidata_id>
+  <name>Arctic Archipelago</name>
+  <category>Islands</category>
+  <description>The Arctic Archipelago, also known as the Canadian Arctic Archipelago, is an archipelago lying to the north of the Canadian continental mainland, excluding Greenland (an autonomous territory of the Danish Realm, which is, by itself, much larger than the combined area of the archipelago), and Iceland (an independent country). Situated in the northern extremity of North America and covering about 1,424,500 km2 (550,000 sq mi), this group of 36,563 islands, surrounded by the Arctic Ocean, comprises much of Northern Canada, predominantly Nunavut and the Northwest Territories.</description>
+  <latitude>75</latitude>
+  <longitude>-90</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/7/76/Arcticisl.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Arcticisl.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Merikanto~commonswiki</photo_artist>
+  <photo_credit>Own work using http://www.aquarius.geomar.de/omc/omc_intro.html (archive copy at the Wayback Machine)</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Arctic_Archipelago</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

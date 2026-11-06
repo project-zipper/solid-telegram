@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q60123</id>
+  <wikidata_id>Q60123</wikidata_id>
+  <name>Chiapas</name>
+  <category>Waterfalls</category>
+  <description>Chiapas, officially the Free and Sovereign State of Chiapas, is one of the states that make up the 32 federal entities of Mexico. It comprises 124 municipalities as of September 2017 and its capital and largest city is Tuxtla Gutiérrez.</description>
+  <latitude>16.53</latitude>
+  <longitude>-92.45</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/UsumacintaYaxchilan16.JPG/960px-UsumacintaYaxchilan16.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:UsumacintaYaxchilan16.JPG</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/3.0</photo_license_url>
+  <photo_artist>Thelmadatter</photo_artist>
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Chiapas</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

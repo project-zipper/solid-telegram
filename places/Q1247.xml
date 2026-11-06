@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1247</id>
+  <wikidata_id>Q1247</wikidata_id>
+  <name>Caribbean Sea</name>
+  <category>Islands</category>
+  <description>The Caribbean Sea is a sea of the North Atlantic Ocean in the tropics of the Western Hemisphere, located south of the Gulf of Mexico and southwest of the Sargasso Sea. It is bounded by the Greater Antilles to the north from Cuba to Puerto Rico, the Lesser Antilles to the east from the Virgin Islands to Trinidad and Tobago, South America to the south from the Venezuelan coastline to the Colombian coastline, and Central America and the Yucatán Peninsula to the west from Panama to Mexico.</description>
+  <latitude>15</latitude>
+  <longitude>-75</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Caribbean_Sea</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

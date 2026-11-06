@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>wiki-45467428</id>
+  <wikidata_id />
+  <name>Python Bridge</name>
+  <category>Bridges</category>
+  <description>Python Bridge, officially known as High Bridge (Hoge Brug), is a bridge that spans the canal between Sporenburg and Borneo Island in Eastern Docklands, Amsterdam.</description>
+  <latitude>52.37302</latitude>
+  <longitude>4.94893</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url />
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

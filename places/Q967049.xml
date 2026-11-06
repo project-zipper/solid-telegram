@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q967049</id>
+  <wikidata_id>Q967049</wikidata_id>
+  <name>Les Charmettes</name>
+  <category>Museums</category>
+  <description>Les Charmettes is writer's house museum in a hamlet near the town of Chambéry in the Savoie region of France. It is famed as a favourite retreat of the philosophe Jean-Jacques Rousseau (1712-1778).</description>
+  <latitude>45.555375</latitude>
+  <longitude>5.93086111</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/LesCharmettes.jpg/960px-LesCharmettes.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:LesCharmettes.jpg</photo_page>
+  <photo_license>CC BY-SA 2.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/2.0</photo_license_url>
+  <photo_artist>Chris Bertram</photo_artist>
+  <photo_credit>Les Charmettes, Chambery, France</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Les_Charmettes</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

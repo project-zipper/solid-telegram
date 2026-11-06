@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q153135</id>
+  <wikidata_id>Q153135</wikidata_id>
+  <name>Breitachklamm</name>
+  <category>Waterfalls</category>
+  <description>The Breitachklamm is a gorge created by the river Breitach in the Allgäu region in Southern Germany. It is located at the exit of the Kleinwalsertal near Tiefenbach, a city district of Oberstdorf.</description>
+  <latitude>47.4017533</latitude>
+  <longitude>10.229737</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/3/34/Breita4.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Breita4.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0 de</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/3.0/de/deed.en</photo_license_url>
+  <photo_artist>Hans Weingartz</photo_artist>
+  <photo_credit>Transferred from de.wikipedia to Commons by Ireas using CommonsHelper.</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Breitachklamm</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

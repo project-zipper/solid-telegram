@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q202316</id>
+  <wikidata_id>Q202316</wikidata_id>
+  <name>Foz do Iguaçu</name>
+  <category>Tourist Attractions</category>
+  <description>Foz do Iguaçu (Brazilian Portuguese pronunciation: [ˈfɔz du iɡwaˈsu]; "Mouth of the Iguazu"), colloquially referred to as Foz, is the Brazilian city on the border of Iguaçu Falls. Foz in Portuguese means the mouth or end of a river and Iguaçu in Guarani or Tupi comes from the words y [ɨ], meaning "river", and guasu [waˈsu], meaning "big".</description>
+  <latitude>-25.54</latitude>
+  <longitude>-54.5875</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/SkylineFoz.JPG/960px-SkylineFoz.JPG?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:SkylineFoz.JPG</photo_page>
+  <photo_license>CC BY 3.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by/3.0</photo_license_url>
+  <photo_artist>SamirNosteb</photo_artist>
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Foz_do_Igua%C3%A7u</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

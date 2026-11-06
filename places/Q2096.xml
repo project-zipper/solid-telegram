@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q2096</id>
+  <wikidata_id>Q2096</wikidata_id>
+  <name>Edmonton</name>
+  <category>Landmarks</category>
+  <description>Edmonton ( ED-mən-tən) is the capital city of the Canadian province of Alberta. It is situated on the North Saskatchewan River and is the centre of the Edmonton Metropolitan Region, which is surrounded by Alberta's central region.</description>
+  <latitude>53.53444444</latitude>
+  <longitude>-113.49027778</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Edmonton</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

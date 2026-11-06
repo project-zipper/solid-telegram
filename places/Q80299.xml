@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q80299</id>
+  <wikidata_id>Q80299</wikidata_id>
+  <name>Angel Falls</name>
+  <category>Tourist Attractions</category>
+  <description>Angel Falls (Spanish: Salto Ángel; Pemon: Körepakupai Vená) is a waterfall in Venezuela. It is the world's tallest uninterrupted waterfall, with a height of 979 metres (3,212 ft), and a plunge of 807 m (2,648 ft).</description>
+  <latitude>5.9675</latitude>
+  <longitude>-62.53555556</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/e/e9/SaltoAngel1.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:SaltoAngel1.jpg</photo_page>
+  <photo_license>CC BY 2.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by/2.0</photo_license_url>
+  <photo_artist>Rich Childs</photo_artist>
+  <photo_credit>https://www.flickr.com/photos/rich_childs/228035591/</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Angel_Falls</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

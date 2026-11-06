@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q599132</id>
+  <wikidata_id>Q599132</wikidata_id>
+  <name>Bunratty Castle</name>
+  <category>Tourist Attractions</category>
+  <description>Bunratty Castle (Irish: Caisleán Bhun Raithe) is a large 15th-century tower house in County Clare, Ireland. It is located in the centre of Bunratty village, by the N18 road between Limerick and Ennis, near Shannon Town and its airport.</description>
+  <latitude>52.69666667</latitude>
+  <longitude>-8.81166667</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Bunrattybig.jpg/960px-Bunrattybig.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Bunrattybig.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Jon Sullivan</photo_artist>
+  <photo_credit>http://pdphoto.org/PictureDetail.php?mat=pdef&amp;pg=6126. This is dead by now but I found a backup on the WaybackMachine at: https://web.archive.org/web/20160304071143/http://pdphoto.org/PictureDetail.php?mat=pdef&amp;pg=6126</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bunratty_Castle</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q193331</id>
+  <wikidata_id>Q193331</wikidata_id>
+  <name>Kiritimati</name>
+  <category>Islands</category>
+  <description>Kiritimati (Gilbertese pronunciation: [kiˈrɪsmæs]), also known as Christmas Island, is a Pacific Ocean atoll in the northern Line Islands. It is part of the Republic of Kiribati.</description>
+  <latitude>1.85</latitude>
+  <longitude>-157.4</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Kiritimati-EO.jpg/960px-Kiritimati-EO.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Kiritimati-EO.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>NASA</photo_artist>
+  <photo_credit>http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=8262</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Kiritimati</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q180274</id>
+  <wikidata_id>Q180274</wikidata_id>
+  <name>Chartres Cathedral</name>
+  <category>Landmarks</category>
+  <description>Chartres Cathedral (French: Cathédrale Notre-Dame de Chartres, lit. 'Cathedral of Our Lady of Chartres') is a Catholic cathedral in Chartres, France, about 80 km (50 miles) southwest of Paris, and is the seat of the Bishop of Chartres. Dedicated in honour of the Virgin Mary ('Our Lady'), it was mostly constructed between 1194 and 1220.</description>
+  <latitude>48.4478</latitude>
+  <longitude>1.4878</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Chartres_Cathedral</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

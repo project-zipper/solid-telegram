@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q220289</id>
+  <wikidata_id>Q220289</wikidata_id>
+  <name>Grand Canyon National Park</name>
+  <category>National Parks</category>
+  <description>Grand Canyon National Park is a national park of the United States located in northwestern Arizona, the 15th site to have been named as a national park. The park's central feature is the Grand Canyon, a gorge of the Colorado River, which is often considered one of the Wonders of the World.</description>
+  <latitude>36.0552608</latitude>
+  <longitude>-112.1218355</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Grand_Canyon_National_Park</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

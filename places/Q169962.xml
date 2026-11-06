@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q169962</id>
+  <wikidata_id>Q169962</wikidata_id>
+  <name>Lake Tahoe</name>
+  <category>Tourist Attractions</category>
+  <description>Lake Tahoe () is a freshwater lake in the Sierra Nevada of the Western United States, straddling the border between California and Nevada. Lying at 6,225 ft (1,897 m) above sea level, Lake Tahoe is the largest alpine lake in North America, and at 122,160,280 acre⋅ft (150.7 km3) it trails only the five Great Lakes as the largest by volume in the United States.</description>
+  <latitude>39</latitude>
+  <longitude>-120</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Lake_Tahoe</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

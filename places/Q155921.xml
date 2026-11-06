@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q155921</id>
+  <wikidata_id>Q155921</wikidata_id>
+  <name>Bletchley Park</name>
+  <category>National Parks</category>
+  <description>Bletchley Park is an English country house and estate in Bletchley, Milton Keynes (Buckinghamshire), that became the principal centre of Allied code-breaking during the Second World War. During World War II, the estate housed the Government Code and Cypher School (GC&amp;CS), which regularly penetrated the secret communications of the Axis powers – most importantly the German Enigma and Lorenz ciphers.</description>
+  <latitude>51.99805556</latitude>
+  <longitude>-0.74111111</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bletchley_Park</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

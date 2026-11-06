@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q170072</id>
+  <wikidata_id>Q170072</wikidata_id>
+  <name>Dutch Republic</name>
+  <category>Historic Sites</category>
+  <description>The Republic of the Seven United Netherlands, also known as the United Provinces, and referred to in historiography as the Dutch Republic, was a confederation and great power that existed from 1588 until the Batavian Revolution in 1795. It was a predecessor state of the present-day Netherlands and the first independent Dutch nation state.</description>
+  <latitude>52.07972222</latitude>
+  <longitude>4.31333333</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Prinsenvlag.svg/960px-Prinsenvlag.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Prinsenvlag.svg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Miyamaki, Oren neu dag, Artem Karimov, Golradir</photo_artist>
+  <photo_credit>SVG implementation of the Prinsenvlag.</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Dutch_Republic</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

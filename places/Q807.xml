@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q807</id>
+  <wikidata_id>Q807</wikidata_id>
+  <name>Lausanne</name>
+  <category>Landmarks</category>
+  <description>Lausanne ( loh-ZAN, US also loh-ZAHN; French: [lozan] ) is the capital and largest city of the Swiss French-speaking canton of Vaud, in Switzerland. The Olympic capital, it is a hilly city situated on the shores of Lake Geneva, about halfway between the Jura Mountains and the Alps, and facing the French town of Évian-les-Bains across the lake.</description>
+  <latitude>46.52</latitude>
+  <longitude>6.63333333</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Lausanne</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

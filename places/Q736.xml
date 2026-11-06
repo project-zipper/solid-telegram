@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q736</id>
+  <wikidata_id>Q736</wikidata_id>
+  <name>Ecuador</name>
+  <category>Islands</category>
+  <description>Ecuador, officially the Republic of Ecuador, is a country in northwestern South America, bordered by Colombia on the north, Peru on the east and south, and the Pacific Ocean on the west. It also includes the Galápagos Province which contains the Galápagos Islands in the Pacific, about 1,000 kilometers (540 nmi; 620 mi) west of the mainland.</description>
+  <latitude>-2</latitude>
+  <longitude>-77.5</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Ecuador</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

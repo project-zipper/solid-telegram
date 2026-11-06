@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q211665</id>
+  <wikidata_id>Q211665</wikidata_id>
+  <name>Askja</name>
+  <category>Mountains</category>
+  <description>Askja ([ˈasca] ) is an active volcano situated in a remote part of the central highlands of Iceland. The name Askja refers to a complex of nested calderas within the surrounding Dyngjufjöll [ˈtiɲcʏˌfjœtl̥] mountains, which rise to 1,514 m (4,967 ft), askja meaning box or caldera in Icelandic.</description>
+  <latitude>65.033</latitude>
+  <longitude>-16.783</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/e/e6/Askja.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Askja.jpg</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>Michael Ryan</photo_artist>
+  <photo_credit>USGS</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Askja</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

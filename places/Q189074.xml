@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q189074</id>
+  <wikidata_id>Q189074</wikidata_id>
+  <name>Harlem</name>
+  <category>Landmarks</category>
+  <description>Harlem is a neighborhood in Upper Manhattan, New York City. It is bounded roughly by the Hudson River on the west; the Harlem River and 155th Street on the north; Fifth Avenue on the east; and 110th Street on the south.</description>
+  <latitude>40.80888889</latitude>
+  <longitude>-73.94833333</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Harlem</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

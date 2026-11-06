@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q750</id>
+  <wikidata_id>Q750</wikidata_id>
+  <name>Bolivia</name>
+  <category>Monuments</category>
+  <description>Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in central South America. Its geography primarily consists of an Andean region to the west and tropical lowlands to the east and north.</description>
+  <latitude>-16.712</latitude>
+  <longitude>-64.666</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Bolivia</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

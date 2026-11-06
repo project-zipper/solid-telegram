@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q797948</id>
+  <wikidata_id>Q797948</wikidata_id>
+  <name>Coffee production in Colombia</name>
+  <category>Islands</category>
+  <description>Coffee production in Colombia has a reputation for producing mild, well-balanced coffee beans. Colombia's average annual coffee production of 11.5 million bags is the third total highest in the world, after Brazil and Vietnam, though highest in terms of the arabica bean.</description>
+  <latitude>5.47166667</latitude>
+  <longitude>-75.68166667</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/a/a2/Paisaje-Cafetero-Colombiano.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Paisaje-Cafetero-Colombiano.png</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/3.0</photo_license_url>
+  <photo_artist>Jyon</photo_artist>
+  <photo_credit>Own work</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Coffee_production_in_Colombia</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

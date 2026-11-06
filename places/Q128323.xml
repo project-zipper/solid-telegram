@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q128323</id>
+  <wikidata_id>Q128323</wikidata_id>
+  <name>Trinidad</name>
+  <category>Beaches</category>
+  <description />
+  <latitude>10.5</latitude>
+  <longitude>-61.3</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/8/8a/Td-map.png?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Td-map.png</photo_page>
+  <photo_license>Public domain</photo_license>
+  <photo_license_url />
+  <photo_artist>CIA</photo_artist>
+  <photo_credit>CIA, The World Factbook, 2004 (internet version)</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Trinidad</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

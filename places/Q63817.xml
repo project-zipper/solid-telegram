@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q63817</id>
+  <wikidata_id>Q63817</wikidata_id>
+  <name>Eastern Alps</name>
+  <category>Mountains</category>
+  <description>The Eastern Alps are usually defined as the area east of a line from Lake Constance and the Alpine Rhine valley, up to the Splügen Pass at the Alpine divide, and down the Liro River to Lake Como in the south. The peaks and mountain passes are lower than the Western Alps, while the range itself is broader and less arched.</description>
+  <latitude>46.575</latitude>
+  <longitude>12.23166667</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Eastern_Alps</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

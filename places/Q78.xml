@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q78</id>
+  <wikidata_id>Q78</wikidata_id>
+  <name>Basel</name>
+  <category>Tourist Attractions</category>
+  <description>Basel or Basle is a city in northwestern Switzerland on the river Rhine, at the transition from the High Rhine to the Upper Rhine. Basel is Switzerland's third most populous city (after Zurich and Geneva), with 177,595 inhabitants within the city municipality limits.</description>
+  <latitude>47.55805556</latitude>
+  <longitude>7.58777778</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Basel</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

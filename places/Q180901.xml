@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q180901</id>
+  <wikidata_id>Q180901</wikidata_id>
+  <name>Atomium</name>
+  <category>Tourist Attractions</category>
+  <description>The Atomium ( ə-TOH-mee-əm, French: [atɔmjɔm], Dutch: [aːˈtoːmijəm]) is a landmark modernist building in Brussels, Belgium, originally constructed as the centrepiece of the 1958 Brussels World's Fair (Expo 58). Designed by the engineer André Waterkeyn and the architects André and Jean Polak as a tribute to scientific progress, as well as to symbolise Belgian engineering skills at the time, it is located on the Heysel/Heizel Plateau in Laeken (northern part of the City of Brussels), where the exhibition took place.</description>
+  <latitude>50.89472222</latitude>
+  <longitude>4.34111111</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Atomium</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

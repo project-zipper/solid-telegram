@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1049415</id>
+  <wikidata_id>Q1049415</wikidata_id>
+  <name>Castle Combe</name>
+  <category>Castles</category>
+  <description>Castle Combe is a village and civil parish in Wiltshire, England. The village is around 5 miles (8 km) north-west of Chippenham and 10 miles (16 km) north-east of Bath.</description>
+  <latitude>51.493</latitude>
+  <longitude>-2.229</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Castle_Combe</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

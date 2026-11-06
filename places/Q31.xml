@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q31</id>
+  <wikidata_id>Q31</wikidata_id>
+  <name>Belgium</name>
+  <category>Monuments</category>
+  <description>Belgium, officially the Kingdom of Belgium, is a country in Northwestern Europe. Situated in a coastal lowland region known as the Low Countries, it is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the south, and the North Sea to the west.</description>
+  <latitude>50.83333333</latitude>
+  <longitude>4</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Belgium</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

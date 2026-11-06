@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q203225</id>
+  <wikidata_id>Q203225</wikidata_id>
+  <name>Battle of Stamford Bridge</name>
+  <category>Monuments</category>
+  <description>The Battle of Stamford Bridge took place at the village of Stamford Bridge, East Riding of Yorkshire, in England, on 25 September 1066, between an English army under King Harold Godwinson and an invading Norwegian force led by King Harald Hardrada and the English king's brother Tostig Godwinson. After a bloody battle, both Hardrada and Tostig, along with most of the Norwegians, were killed.</description>
+  <latitude>53.9925</latitude>
+  <longitude>-0.9125</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

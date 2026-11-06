@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q572193</id>
+  <wikidata_id>Q572193</wikidata_id>
+  <name>Alden Biesen Castle</name>
+  <category>Castles</category>
+  <description>Alden Biesen is a 16th-century castle in the small village of Rijkhoven, municipality of Bilzen, province of Limburg, Belgium.</description>
+  <latitude>50.8417</latitude>
+  <longitude>5.5206</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/9/9f/Aldenbiezen.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Aldenbiezen.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist>Paul Hermans</photo_artist>
+  <photo_credit>Author's own work, transferred from Dutch Wikipedia</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Alden_Biesen_Castle</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q831527</id>
+  <wikidata_id>Q831527</wikidata_id>
+  <name>Djurgården</name>
+  <category>Monuments</category>
+  <description>Djurgården (pronounced [ˈjʉ̌ː(r)ɡɔɳ] or [ˈjʉ̂ːrˌɡoːɖɛn] ) or, more officially, Kungliga Djurgården (Swedish for 'The [Royal] Animal Park'), is an island in central Stockholm, Sweden. Djurgården is home to historical buildings and monuments, museums, galleries, the amusement park Gröna Lund, the open-air museum Skansen, the small residential area Djurgårdsstaden, yacht harbours, and extensive stretches of forest and meadows.</description>
+  <latitude>59.325</latitude>
+  <longitude>18.11666667</longitude>
+  <photo>https://upload.wikimedia.org/wikipedia/commons/4/4d/Djurgarden.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail_unscaled</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:Djurgarden.jpg</photo_page>
+  <photo_license>CC BY-SA 3.0</photo_license>
+  <photo_license_url>http://creativecommons.org/licenses/by-sa/3.0/</photo_license_url>
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Djurg%C3%A5rden</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

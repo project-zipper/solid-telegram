@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q819</id>
+  <wikidata_id>Q819</wikidata_id>
+  <name>Laos</name>
+  <category>Temples</category>
+  <description>Laos, officially the Lao People's Democratic Republic (LPDR), is a country in Mainland Southeast Asia; it is the only landlocked country in Southeast Asia. It is bordered by Myanmar and China to the northwest, Vietnam to the east, Cambodia to the southeast, and Thailand to the west and southwest.</description>
+  <latitude>18</latitude>
+  <longitude>105</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Laos</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

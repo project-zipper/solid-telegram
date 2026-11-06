@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q739</id>
+  <wikidata_id>Q739</wikidata_id>
+  <name>Colombia</name>
+  <category>Historic Sites</category>
+  <description>Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Colombia's mainland is bordered by the Caribbean Sea to the north, Venezuela to the east, Brazil to the southeast, Peru and Ecuador to the south and southwest, the Pacific Ocean to the west, and Panama to the northwest.</description>
+  <latitude>4</latitude>
+  <longitude>-72</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Colombia</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

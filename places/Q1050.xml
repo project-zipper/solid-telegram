@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q1050</id>
+  <wikidata_id>Q1050</wikidata_id>
+  <name>Eswatini</name>
+  <category>Mountains</category>
+  <description>Eswatini, formally the Kingdom of Eswatini (historically called KaNgwane), also known by its former official names Swaziland and the Kingdom of Swaziland, is a landlocked country in Southern Africa. It is bordered by South Africa on all sides except the east, where it shares a border with Mozambique.</description>
+  <latitude>-26.5</latitude>
+  <longitude>31.5</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Eswatini</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

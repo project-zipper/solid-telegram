@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q223</id>
+  <wikidata_id>Q223</wikidata_id>
+  <name>Greenland</name>
+  <category>Historic Sites</category>
+  <description>Greenland is an autonomous territory of the Kingdom of Denmark and is the largest of the kingdom's three constituent parts by land area, the others being Denmark proper and the Faroe Islands. Citizens of Greenland are citizens of Denmark.</description>
+  <latitude>72</latitude>
+  <longitude>-40</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Greenland</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

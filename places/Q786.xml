@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q786</id>
+  <wikidata_id>Q786</wikidata_id>
+  <name>Dominican Republic</name>
+  <category>Monuments</category>
+  <description>The Dominican Republic is an island country on the eastern part of the Caribbean island of Hispaniola in the Greater Antilles of the Caribbean Sea in the North Atlantic Ocean. It shares a maritime border with Puerto Rico to the east and a land border with Haiti to the west, occupying the eastern five-eighths of Hispaniola which, along with Saint Martin, is one of only two islands in the Caribbean shared by two sovereign states.</description>
+  <latitude>19</latitude>
+  <longitude>-70.66666667</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Dominican_Republic</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

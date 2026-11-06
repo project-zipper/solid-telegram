@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q881739</id>
+  <wikidata_id>Q881739</wikidata_id>
+  <name>Blarney Castle</name>
+  <category>Tourist Attractions</category>
+  <description>Blarney Castle (Irish: Caisleán na Blarnan) is a medieval stronghold in Blarney, a town in Cork, Ireland. Though earlier fortifications were built on the same spot, the current keep was built by the MacCarthy of Muskerry dynasty, a cadet branch of the Kings of Desmond, and dates from 1446.</description>
+  <latitude>51.9289</latitude>
+  <longitude>-8.5708</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Blarney_Castle</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

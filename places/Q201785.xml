@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q201785</id>
+  <wikidata_id>Q201785</wikidata_id>
+  <name>El Dorado International Airport</name>
+  <category>Historic Sites</category>
+  <description>El Dorado International Airport (IATA: BOG, ICAO: SKBO) is an international airport serving Bogotá, the capital of Colombia, and its surrounding areas. The airport is located mostly in the Fontibón district of Bogotá, although it partially extends into the Engativá district and through the municipality of Funza in the Western Savanna Province of the Cundinamarca Department.</description>
+  <latitude>4.70138889</latitude>
+  <longitude>-74.14694444</longitude>
+  <photo>https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/El-dorado-from-air.jpg/960px-El-dorado-from-air.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=imageinfo&amp;utm_content=thumbnail</photo>
+  <photo_page>https://commons.wikimedia.org/wiki/File:El-dorado-from-air.jpg</photo_page>
+  <photo_license>CC BY-SA 4.0</photo_license>
+  <photo_license_url>https://creativecommons.org/licenses/by-sa/4.0</photo_license_url>
+  <photo_artist>EFE</photo_artist>
+  <photo_credit>https://images.clarin.com/2020/04/03/en-colombia-avianca-suspendio-a___FLO8u6wmm_1200x0__1.jpg</photo_credit>
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/El_Dorado_International_Airport</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>

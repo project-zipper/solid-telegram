@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<place>
+  <id>Q274131</id>
+  <wikidata_id>Q274131</wikidata_id>
+  <name>Everglades National Park</name>
+  <category>National Parks</category>
+  <description>Everglades National Park is a United States national park that protects the southern 20% of the original Everglades ecosystem in Florida. Spanning over 1.5 million acres (6,000 km2), Everglades is the third-largest national park in the contiguous United States after Death Valley and Yellowstone.</description>
+  <latitude>25.3125</latitude>
+  <longitude>-80.6875</longitude>
+  <photo />
+  <photo_page />
+  <photo_license />
+  <photo_license_url />
+  <photo_artist />
+  <photo_credit />
+  <source>English Wikipedia</source>
+  <source_url>https://en.wikipedia.org/wiki/Everglades_National_Park</source_url>
+  <text_attribution>Wikipedia contributors</text_attribution>
+  <text_license>CC BY-SA 4.0</text_license>
+  <text_license_url>https://creativecommons.org/licenses/by-sa/4.0/</text_license_url>
+</place>
