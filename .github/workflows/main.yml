@@ -1,250 +1,297 @@
 
-name: Generate 20000 Worldwide Places
+name: Build 90 Popular Places
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
-concurrency:
-  group: worldwide-place-generation
-  cancel-in-progress: false
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Generate place XML files
+      - name: Build place XML files
         run: |
-          python - <<'PY'
+          python -m pip install requests
+
+          mkdir -p places
+
+          cat > build.py <<'PY'
           import requests
           import xml.etree.ElementTree as ET
-          from pathlib import Path
-          from urllib.parse import quote
           import time
+          import os
           import re
 
-          OUTPUT = Path("places")
-          OUTPUT.mkdir(exist_ok=True)
-
-          TARGET = 20000
-          BATCH = 500
-
-          ENDPOINT = "https://query.wikidata.org/sparql"
-
-          # Real place categories
-          categories = [
-              ("Q11707", "Restaurant"),
-              ("Q16917", "Hospital"),
-              ("Q3914", "School"),
-              ("Q27686", "Fast Food"),
+          places = [
+              "Eiffel Tower",
+              "Statue of Liberty",
+              "Big Ben",
+              "Colosseum",
+              "Great Wall of China",
+              "Taj Mahal",
+              "Mount Everest",
+              "Machu Picchu",
+              "Pyramids of Giza",
+              "Christ the Redeemer",
+              "Sydney Opera House",
+              "Burj Khalifa",
+              "Tower Bridge",
+              "Louvre",
+              "Times Square",
+              "Central Park",
+              "Golden Gate Bridge",
+              "Empire State Building",
+              "Hollywood Sign",
+              "Niagara Falls",
+              "Grand Canyon",
+              "Yellowstone National Park",
+              "Yosemite National Park",
+              "Disneyland",
+              "Walt Disney World",
+              "Universal Studios Hollywood",
+              "Las Vegas Strip",
+              "Mount Rushmore",
+              "White House",
+              "Lincoln Memorial",
+              "Washington Monument",
+              "Notre-Dame de Paris",
+              "Arc de Triomphe",
+              "Palace of Versailles",
+              "Leaning Tower of Pisa",
+              "Trevi Fountain",
+              "Vatican Museums",
+              "St Peter's Basilica",
+              "Sagrada Familia",
+              "Park Guell",
+              "Acropolis of Athens",
+              "Santorini",
+              "Stonehenge",
+              "Buckingham Palace",
+              "London Eye",
+              "Edinburgh Castle",
+              "Neuschwanstein Castle",
+              "Brandenburg Gate",
+              "Berlin Wall",
+              "Red Square",
+              "Saint Basil's Cathedral",
+              "Hagia Sophia",
+              "Blue Mosque",
+              "Petra",
+              "Burj Al Arab",
+              "Palm Jumeirah",
+              "Mecca",
+              "Medina",
+              "Angkor Wat",
+              "Borobudur",
+              "Mount Fuji",
+              "Tokyo Tower",
+              "Tokyo Skytree",
+              "Fushimi Inari-taisha",
+              "Kinkaku-ji",
+              "Osaka Castle",
+              "Shibuya Crossing",
+              "Forbidden City",
+              "Tiananmen Square",
+              "Shanghai Tower",
+              "Terracotta Army",
+              "Victoria Harbour",
+              "Marina Bay Sands",
+              "Gardens by the Bay",
+              "Petronas Towers",
+              "Batu Caves",
+              "Bali",
+              "Ha Long Bay",
+              "Angkor Thom",
+              "Chichen Itza",
+              "Teotihuacan",
+              "Iguazu Falls",
+              "Copacabana Beach",
+              "Amazon Rainforest",
+              "Table Mountain",
+              "Victoria Falls",
+              "Serengeti National Park",
+              "Great Barrier Reef",
+              "Uluru"
           ]
 
-          existing = {
-              p.stem for p in OUTPUT.glob("*.xml")
-              if p.name != "index.xml"
+          headers = {
+              "User-Agent": "PopularPlacesXMLBuilder/1.0 (GitHub Actions)"
           }
 
           session = requests.Session()
-          session.headers.update({
-              "User-Agent": "WorldwidePlacesXML/1.0 (GitHub Actions)",
-              "Accept": "application/sparql-results+json"
-          })
+          session.headers.update(headers)
 
-          added = 0
-          offset = 0
-          failures = 0
+          def search_place(name):
+              url = "https://www.wikidata.org/w/api.php"
+              params = {
+                  "action": "wbsearchentities",
+                  "search": name,
+                  "language": "en",
+                  "format": "json",
+                  "limit": 5
+              }
 
-          def get_value(binding, key):
-              return binding.get(key, {}).get("value", "")
+              response = session.get(url, params=params, timeout=30)
+              response.raise_for_status()
 
-          def get_coordinates(value):
-              match = re.search(
-                  r"Point\(\s*([-0-9.]+)\s+([-0-9.]+)\s*\)",
-                  value
-              )
-              if not match:
-                  return "", ""
-              return match.group(2), match.group(1)
+              results = response.json().get("search", [])
 
-          while added < TARGET and failures < 5:
+              for result in results:
+                  qid = result.get("id", "")
+                  if re.fullmatch(r"Q[0-9]+", qid):
+                      return qid
 
-              values = " ".join(
-                  f"(wd:{qid} \"{name}\")"
-                  for qid, name in categories
-              )
+              return None
 
-              query = f"""
-              SELECT DISTINCT
-                ?item ?itemLabel ?coordinate ?image ?category
-              WHERE {{
-                VALUES (?class ?category) {{ {values} }}
-
-                ?item wdt:P31/wdt:P279* ?class ;
-                      wdt:P625 ?coordinate .
-
-                OPTIONAL {{ ?item wdt:P18 ?image . }}
-
-                SERVICE wikibase:label {{
-                  bd:serviceParam wikibase:language "en".
-                  ?item rdfs:label ?itemLabel.
-                }}
-              }}
-              ORDER BY STR(?item)
-              LIMIT {BATCH}
-              OFFSET {offset}
-              """
-
+          qids = {}
+          for name in places:
               try:
-                  response = session.get(
-                      ENDPOINT,
-                      params={"query": query},
-                      timeout=120
-                  )
-                  response.raise_for_status()
-                  records = response.json()["results"]["bindings"]
-                  failures = 0
-
+                  qid = search_place(name)
+                  if qid:
+                      qids[qid] = name
+                  print("Found:", name, qid)
               except Exception as error:
-                  failures += 1
-                  print("Query failed:", error)
-                  time.sleep(15)
-                  continue
+                  print("Search failed:", name, error)
 
-              if not records:
-                  print("No more records.")
-                  break
+              time.sleep(0.2)
 
-              for record in records:
-                  if added >= TARGET:
-                      break
+          def get_claim(claims, property_id):
+              values = claims.get(property_id, [])
+              if not values:
+                  return None
+              return values[0].get("mainsnak", {}).get(
+                  "datavalue", {}
+              ).get("value")
 
-                  item_url = get_value(record, "item")
-                  place_id = item_url.rsplit("/", 1)[-1]
+          ids = list(qids.keys())
+          records = []
 
-                  if not place_id or place_id in existing:
-                      continue
+          for start in range(0, len(ids), 50):
+              batch = ids[start:start + 50]
 
-                  name = get_value(record, "itemLabel")
-                  if not name:
-                      continue
+              response = session.get(
+                  "https://www.wikidata.org/w/api.php",
+                  params={
+                      "action": "wbgetentities",
+                      "ids": "|".join(batch),
+                      "props": "labels|descriptions|claims",
+                      "languages": "en",
+                      "format": "json"
+                  },
+                  timeout=60
+              )
+              response.raise_for_status()
 
-                  latitude, longitude = get_coordinates(
-                      get_value(record, "coordinate")
+              entities = response.json().get("entities", {})
+
+              for qid in batch:
+                  entity = entities.get(qid, {})
+                  labels = entity.get("labels", {})
+                  descriptions = entity.get("descriptions", {})
+                  claims = entity.get("claims", {})
+
+                  label = labels.get("en", {}).get("value", qids[qid])
+                  description = descriptions.get("en", {}).get(
+                      "value", "Popular place"
                   )
 
-                  image_name = get_value(record, "image")
-                  photo = ""
+                  coordinate = get_claim(claims, "P625")
+                  if not coordinate:
+                      print("No coordinates:", label)
+                      continue
 
-                  if image_name:
-                      photo = (
-                          "https://commons.wikimedia.org/wiki/Special:FilePath/"
-                          + quote(image_name.split("/")[-1])
+                  latitude = coordinate.get("latitude")
+                  longitude = coordinate.get("longitude")
+
+                  if latitude is None or longitude is None:
+                      continue
+
+                  image = get_claim(claims, "P18")
+                  photo_url = ""
+                  photo_page = ""
+
+                  if image:
+                      filename = requests.utils.quote(
+                          image.replace(" ", "_"), safe=""
+                      )
+                      photo_url = (
+                          "https://commons.wikimedia.org/wiki/"
+                          "Special:FilePath/" + filename
+                      )
+                      photo_page = (
+                          "https://commons.wikimedia.org/wiki/File:"
+                          + requests.utils.quote(image.replace(" ", "_"))
                       )
 
-                  category = get_value(record, "category")
-
                   root = ET.Element("place")
-
                   fields = {
-                      "id": place_id,
-                      "name": name,
-                      "category": category,
-                      "address": "",
-                      "latitude": latitude,
-                      "longitude": longitude,
-                      "description": "",
-                      "photo": photo,
-                      "photo_credit": "Wikimedia Commons, if image supplied",
-                      "photo_license": "Check individual image license",
-                      "website": "",
-                      "source": "Wikidata"
+                      "id": qid,
+                      "name": label,
+                      "category": "Popular place",
+                      "description": description,
+                      "latitude": str(latitude),
+                      "longitude": str(longitude),
+                      "photo": photo_url,
+                      "photo_page": photo_page,
+                      "photo_license": (
+                          "Check the individual Wikimedia Commons file page"
+                          if image else ""
+                      ),
+                      "source": "Wikidata",
+                      "source_url": (
+                          "https://www.wikidata.org/wiki/" + qid
+                      )
                   }
 
                   for key, value in fields.items():
-                      ET.SubElement(root, key).text = value
+                      child = ET.SubElement(root, key)
+                      child.text = value
 
                   ET.indent(root, space="  ")
 
+                  filename = f"places/{qid}.xml"
                   ET.ElementTree(root).write(
-                      OUTPUT / f"{place_id}.xml",
+                      filename,
                       encoding="utf-8",
                       xml_declaration=True
                   )
 
-                  existing.add(place_id)
-                  added += 1
+                  records.append((qid, label))
+                  print("Created:", filename)
 
-              offset += BATCH
-
-              print(
-                  f"New XML files: {added}/{TARGET}; "
-                  f"records checked: {offset}"
-              )
-
-              time.sleep(2)
-
-          # Rebuild index using all existing XML records.
           index = ET.Element("places")
+          index.set("count", str(len(records)))
 
-          for file in sorted(OUTPUT.glob("*.xml")):
-              if file.name == "index.xml":
-                  continue
-
-              try:
-                  place = ET.parse(file).getroot()
-
-                  entry = ET.SubElement(index, "place")
-                  entry.set("id", place.findtext("id", ""))
-                  entry.set("file", file.name)
-                  entry.set("name", place.findtext("name", ""))
-                  entry.set(
-                      "category",
-                      place.findtext("category", "")
-                  )
-
-              except ET.ParseError:
-                  print("Invalid XML:", file)
+          for qid, label in records:
+              item = ET.SubElement(index, "place")
+              item.set("id", qid)
+              item.set("name", label)
+              item.set("file", qid + ".xml")
 
           ET.indent(index, space="  ")
-
           ET.ElementTree(index).write(
-              OUTPUT / "index.xml",
+              "places/index.xml",
               encoding="utf-8",
               xml_declaration=True
           )
 
-          print("================================")
-          print("NEW PLACES:", added)
-          print("TOTAL XML FILES:", len(existing))
-          print("================================")
+          print("Total XML files created:", len(records))
+          PY
 
-      - name: Commit database
+          python build.py
+
+      - name: Save XML files
         run: |
-          git config user.name "Worldwide Places Bot"
-          git config user.email "actions@users.noreply.github.com"
-
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add places/
-
-          if ! git diff --cached --quiet; then
-            git commit -m "Generate worldwide place XML database"
-            git push
-          else
-            echo "No new places."
-          fi
+          git commit -m "Build popular places XML database" || echo "No changes"
+          git push
